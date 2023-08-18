@@ -1,0 +1,46 @@
+/* Add this CSS to your style.css file or within <style> tags in your HTML */
+
+.recipient-card {
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 1rem;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  
+  .recipient-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .recipient-card img {
+    width: 40px;
+  }
+  
+  .recipient-card h5 {
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+  }
+  
+  .recipient-card a {
+    color: #333;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 1rem;
+  }
+  
+  .recipient-card a:hover {
+    color: #007bff;
+  }
+  
+  .recipient-card .btn {
+    background-color: #ffc107;
+    border-color: #ffc107;
+    width: 100%;
+  }
+  
+  .recipient-card .btn:hover {
+    background-color: #e0a800;
+    border-color: #d39e00;
+  }
+  
