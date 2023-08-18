@@ -12,6 +12,7 @@ An employee review system is a structured process used by organizations to asses
 - View reviews given by others
 
 ## How to setup the project on local system
+https://github.com/sunilmann77/Employee-Review-System
 1. use npm i : this can install all library and dependencies.
 2. Now use "npm start" to run this project on local system 
 3. open chrome or  visit in your local browser- http://localhost:8000/
